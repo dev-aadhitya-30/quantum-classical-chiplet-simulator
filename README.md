@@ -1,5 +1,13 @@
 # Quantum-Classical Chiplet Hybrid Computing Simulator
 
+## Patent Publication
+
+This project is associated with a published patent on a Quantum-Classical Chiplet Hybrid Computing Architecture.
+
+The simulator was developed to model and evaluate key architectural characteristics including latency reduction, thermal isolation, signal integrity, scalability, and quantum error-correction feedback mechanisms.
+
+Patent Status: Published
+
 ## Overview
 
 The Quantum-Classical Chiplet Hybrid Computing Simulator is a research-oriented simulation framework designed to evaluate the integration of Quantum Processing Units (QPUs) and Classical Processing Units (CPUs) within a chiplet-based computing architecture.
